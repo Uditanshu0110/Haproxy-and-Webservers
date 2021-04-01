@@ -1,6 +1,3 @@
-![Screenshot](0*X79_Y1mqwzUZMQ3O.gif)
-
-
 # Haproxy-and-Webservers
 
 
